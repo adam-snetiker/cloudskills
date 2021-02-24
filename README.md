@@ -8,7 +8,7 @@ Each branch represents a different course, and projects from each course will be
 - Web Development in the Cloud
 - Azure Administrator Bootcamp
 
-This document contains a comprehendsive list of projects and I will update it weekly as I complete new tasks. Here's a list of what I've accomplished so far:
+Below is a comprehendsive list of projects and I will update it weekly as I complete new tasks. Here's a list of what I've accomplished so far:
 
 **Week 1: DevOps Fundamental Skills**
 - Getting Started with GitHub
