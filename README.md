@@ -1,4 +1,4 @@
-# cloudskills
+# CloudSkills.io
 This is a repository that contains projects from all of my CloudSkills bootcamps, with the purpose of showcasing hands-on skills as I learn new concepts.
 
 Each branch represents a different course, and projects from each course will be uploaded the the appropriate branch to stay organized. So far, I'm enrolled in the following courses:
