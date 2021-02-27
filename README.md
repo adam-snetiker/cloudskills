@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <<<<<<< a383f04d5bf0a99daa00723462fa79b35c952e33
 # CloudSkills.io
 This is a repository that contains projects from all of my CloudSkills bootcamps, with the purpose of showcasing hands-on skills as I learn new concepts.
@@ -21,6 +22,8 @@ Below is a comprehendsive list of projects and I will update it weekly as I comp
 **Week 2: Scripting Like a Developer**
 - Setting Up a Dev Environment from Start to Finish
 =======
+=======
+>>>>>>> cloud-native-devops
 # CloudSkills
 
 This is a repository for all of my projects from CloudSkills.io bootcamps. So far, current and future courses include Cloud Native DevOps, AWS Architecture, Web Development in the Cloud, and Azure Administrator.
@@ -38,14 +41,20 @@ Here's what I've done so far:
 
 **Week 2: Scripting Like a Developer**
 - Setting up a Dev Environment from Start to Finish
+<<<<<<< HEAD
 >>>>>>> Updated to include Week 1 and Week 2 projects
+=======
+>>>>>>> cloud-native-devops
 - Reusable and Clean Python Code
 - Reusable and Clean PowerShell Code
 - Linting in PowerShell and Python
 - Testing in PowerShell and Python
 - Documenting Code
+<<<<<<< HEAD
 <<<<<<< a383f04d5bf0a99daa00723462fa79b35c952e33
 
 
 =======
 >>>>>>> Updated to include Week 1 and Week 2 projects
+=======
+>>>>>>> cloud-native-devops
