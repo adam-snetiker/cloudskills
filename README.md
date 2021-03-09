@@ -18,4 +18,13 @@ Below is a comprehendsive list of that I'll update weekly as I complete new task
 - Testing in PowerShell and Python
 - Documenting Code
 
+## Week 3: Infrastructure as Code
+- Building an ARM Template for Virtual Machine Deployment in Azure
+- Building a Terraform Module to Create a Virtual Network in AWS
+- Testing Infrastructure-as-Code
+- Intro to Azure Bicep
 
+## Week 4: GitHub and Source Control
+- VS Code with Git and GitHub
+- Working Through Push Conflicts
+- Contributing to an Open Source Project
